@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":1,"title":"","author":"東邦ホールディングス株式会社","subject":"","keywords":"","creator":"Microsoft® Excel® 2016","producer":"Microsoft® Excel® 2016","creationdate":"D:20240417091925+09'00'","moddate":"D:20240417091925+09'00'","trapped":"","fileName":"見積原紙.pdf","bounds":[[909,1285]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
